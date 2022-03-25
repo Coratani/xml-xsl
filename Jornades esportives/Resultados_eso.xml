@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  type="text/xsl" href="Resultados_eso.xsl"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"?>
+   
+<Alumnos>
+    <Alumno>
+        <nombre>Selene</nombre>
+        <Apellido>Cantí</Apellido>
+        <curso>4 ESO</curso>
+         <sexo>F</sexo>
+        <pruebas>
+             <prueba>
+                <nom_prueba>Carrera 100 metros lisos Femenino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>1</posicion>
+                            <marca>1:40s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>1</posicion>
+                            <marca>1:20s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>1</posicion>
+                            <marca>1:52s</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                 <prueba>
+                <nom_prueba>Carrera de 1200 metros Femenino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>1</posicion>
+                            <marca>3:43s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>1</posicion>
+                            <marca>2:20s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>1</posicion>
+                            <marca>2:52s</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                <prueba>
+                <nom_prueba>Lanzamiento Femenino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>1</posicion>
+                            <marca>20m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>1</posicion>
+                            <marca>22m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>1</posicion>
+                            <marca>22.5m</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                <prueba>
+                <nom_prueba>Salto Femenino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>1</posicion>
+                            <marca>15m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>1</posicion>
+                            <marca>16m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>1</posicion>
+                            <marca>16m</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+        </pruebas>
+    </Alumno>
+    <Alumno>
+        <nombre>Claudia</nombre>
+        <Apellido>Segí</Apellido>
+        <curso>4 ESO</curso>
+        <sexo>F</sexo>
+        <pruebas>
+            <prueba>
+                <nom_prueba>Carrera 100 metros lisos Femenino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>2</posicion>
+                            <marca>2:10s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>3</posicion>
+                            <marca>2:20s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>4</posicion>
+                            <marca>3:52s</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                 <prueba>
+                <nom_prueba>Carrera de 1200 metros Femenino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>4</posicion>
+                            <marca>8:43s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>2</posicion>
+                            <marca>2:26s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>4</posicion>
+                            <marca>6:52s</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                <prueba>
+                <nom_prueba>Lanzamiento Femenino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>4</posicion>
+                            <marca>5m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>3</posicion>
+                            <marca>8m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>4</posicion>
+                            <marca>0.5m</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                <prueba>
+                <nom_prueba>Salto Femenino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>4</posicion>
+                            <marca>3m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>2</posicion>
+                            <marca>15m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>3</posicion>
+                            <marca>12m</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+        </pruebas>
+    </Alumno>
+    <Alumno>
+        <nombre>Lucia</nombre>
+        <Apellido>Hernandez</Apellido>
+        <curso>4 ESO</curso>
+         <sexo>F</sexo>
+        <pruebas>
+             <prueba>
+                <nom_prueba>Carrera 100 metros lisos Femenino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>3</posicion>
+                            <marca>2:40s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>2</posicion>
+                            <marca>1:26s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>2</posicion>
+                            <marca>1:58s</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                 <prueba>
+                <nom_prueba>Carrera de 1200 metros Femenino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>2</posicion>
+                            <marca>3:58s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>3</posicion>
+                            <marca>2:46s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>3</posicion>
+                            <marca>3:12s</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                <prueba>
+                <nom_prueba>Lanzamiento Femenino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>2</posicion>
+                            <marca>18m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>2</posicion>
+                            <marca>20m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>2</posicion>
+                            <marca>22m</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                <prueba>
+                <nom_prueba>Salto Femenino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>2</posicion>
+                            <marca>13m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>4</posicion>
+                            <marca>2m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>2</posicion>
+                            <marca>14m</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+        </pruebas>
+    </Alumno>
+    <Alumno>
+        <nombre>Maria</nombre>
+        <Apellido>Hernandez</Apellido>
+        <curso>4 ESO</curso>
+         <sexo>F</sexo>
+        <pruebas>
+             <prueba>
+                <nom_prueba>Carrera 100 metros lisos Femenino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>4</posicion>
+                            <marca>3:22s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>4</posicion>
+                            <marca>2:23s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>3</posicion>
+                            <marca>2:10s</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                 <prueba>
+                <nom_prueba>Carrera de 1200 metros Femenino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>3</posicion>
+                            <marca>8:43s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>4</posicion>
+                            <marca>3:18s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>2</posicion>
+                            <marca>3:02s</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                <prueba>
+                <nom_prueba>Lanzamiento Femenino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>3</posicion>
+                            <marca>17m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>4</posicion>
+                            <marca>7m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>3</posicion>
+                            <marca>20.5m</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                <prueba>
+                <nom_prueba>Salto Femenino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>3</posicion>
+                            <marca>10m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>3</posicion>
+                            <marca>12m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>4</posicion>
+                            <marca>10.5m</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+        </pruebas>
+    </Alumno>
+    <Alumno>
+        <nombre>Mario</nombre>
+        <Apellido>Hernandez</Apellido>
+        <curso>4 ESO</curso>
+         <sexo>M</sexo>
+        <pruebas>
+             <prueba>
+                <nom_prueba>Carrera 100 metros lisos Masculino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>2</posicion>
+                            <marca>6:40s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>3</posicion>
+                            <marca>6:20s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>5</posicion>
+                            <marca>6:52s</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                 <prueba>
+                <nom_prueba>Carrera de 1200 metros Masculino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>1</posicion>
+                            <marca>1:43s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>4</posicion>
+                            <marca>3:20s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>5</posicion>
+                            <marca>6:52s</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                <prueba>
+                <nom_prueba>Lanzamiento Masculino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>1</posicion>
+                            <marca>20m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>5</posicion>
+                            <marca>2m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>3</posicion>
+                            <marca>18m</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                <prueba>
+                <nom_prueba>Salto Masculino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>1</posicion>
+                            <marca>10m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>3</posicion>
+                            <marca>7m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>4</posicion>
+                            <marca>6m</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+        </pruebas>
+    </Alumno>
+    <Alumno>
+        <nombre>Luis</nombre>
+        <Apellido>Garcia</Apellido>
+        <curso>4 ESO</curso>
+         <sexo>M</sexo>
+        <pruebas>
+             <prueba>
+                <nom_prueba>Carrera 100 metros lisos Masculino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>4</posicion>
+                            <marca>7:40s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>5</posicion>
+                            <marca>8:20s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>4</posicion>
+                            <marca>6:12s</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                 <prueba>
+                <nom_prueba>Carrera de 1200 metros Masculino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>5</posicion>
+                            <marca>8:43s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>5</posicion>
+                            <marca>4:20s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>4</posicion>
+                            <marca>6:22s</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                <prueba>
+                <nom_prueba>Lanzamiento Masculino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>2</posicion>
+                            <marca>18m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>1</posicion>
+                            <marca>22m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>4</posicion>
+                            <marca>17m</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                <prueba>
+                <nom_prueba>Salto Masculino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>3</posicion>
+                            <marca>7m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>1</posicion>
+                            <marca>11m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>5</posicion>
+                            <marca>0.5m</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+        </pruebas>
+    </Alumno>
+    <Alumno>
+        <nombre>Pedro</nombre>
+        <Apellido>Illa</Apellido>
+        <curso>4 ESO</curso>
+         <sexo>M</sexo>
+        <pruebas>
+             <prueba>
+                <nom_prueba>Carrera 100 metros lisos Masculino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>3</posicion>
+                            <marca>4:40s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>2</posicion>
+                            <marca>5:20s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>1</posicion>
+                            <marca>2:52s</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                 <prueba>
+                <nom_prueba>Carrera de 1200 metros Masculino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>2</posicion>
+                            <marca>2:46s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>1</posicion>
+                            <marca>2:20s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>1</posicion>
+                            <marca>1:52s</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                <prueba>
+                <nom_prueba>Lanzamiento Masculino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>3</posicion>
+                            <marca>17m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>3</posicion>
+                            <marca>20m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>5</posicion>
+                            <marca>16m</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                <prueba>
+                <nom_prueba>Salto Masculino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>2</posicion>
+                            <marca>9m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>2</posicion>
+                            <marca>8m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>3</posicion>
+                            <marca>7m</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+        </pruebas>
+    </Alumno>
+    <Alumno>
+        <nombre>Jordi</nombre>
+        <Apellido>Cruilla</Apellido>
+        <curso>4 ESO</curso>
+         <sexo>M</sexo>
+        <pruebas>
+             <prueba>
+                <nom_prueba>Carrera 100 metros lisos Masculino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>1</posicion>
+                            <marca>3:40s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>1</posicion>
+                            <marca>4:20s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>2</posicion>
+                            <marca>3:52s</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                 <prueba>
+                <nom_prueba>Carrera de 1200 metros Masculino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>3</posicion>
+                            <marca>3:23s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>3</posicion>
+                            <marca>2:27s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>2</posicion>
+                            <marca>1:56s</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                <prueba>
+                <nom_prueba>Lanzamiento Masculino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>4</posicion>
+                            <marca>16m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>2</posicion>
+                            <marca>21m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>1</posicion>
+                            <marca>22m</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                <prueba>
+                <nom_prueba>Salto Masculino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>4</posicion>
+                            <marca>4m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>5</posicion>
+                            <marca>1m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>2</posicion>
+                            <marca>8m</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+        </pruebas>
+    </Alumno>
+    <Alumno>
+        <nombre>Sergi</nombre>
+        <Apellido>Sanchez</Apellido>
+        <curso>4 ESO</curso>
+         <sexo>M</sexo>
+        <pruebas>
+             <prueba>
+                <nom_prueba>Carrera 100 metros lisos Masculino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>5</posicion>
+                            <marca>7:42s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>4</posicion>
+                            <marca>7:20s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>3</posicion>
+                            <marca>4:42s</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                 <prueba>
+                <nom_prueba>Carrera de 1200 metros Masculino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>4</posicion>
+                            <marca>8:23s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>2</posicion>
+                            <marca>2:25s</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>3</posicion>
+                            <marca>6:13s</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                <prueba>
+                <nom_prueba>Lanzamiento Masculino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>5</posicion>
+                            <marca>10m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>4</posicion>
+                            <marca>15m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>2</posicion>
+                            <marca>20m</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+                <prueba>
+                <nom_prueba>Salto Masculino</nom_prueba>
+                <eliminatorias>
+                        <eliminatoria>
+                            <nom_eli>1 Cuarto</nom_eli>
+                            <posicion>5</posicion>
+                            <marca>2.7m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>semi</nom_eli>
+                            <posicion>4</posicion>
+                            <marca>2m</marca>
+                        </eliminatoria>
+                        <eliminatoria>
+                            <nom_eli>final</nom_eli>
+                            <posicion>1</posicion>
+                            <marca>10m</marca>
+                        </eliminatoria>
+                </eliminatorias>
+                </prueba>
+        </pruebas>
+    </Alumno>
+    <Modalidades>
+        <modalidad><nombre>Carrera de 100 metros lisos</nombre></modalidad>
+        <modalidad><nombre><nombre>Carrera de 1200 metros</nombre></nombre></modalidad>
+        <modalidad><nombre>Lanzamiento de peso</nombre></modalidad>
+        <modalidad><nombre>Salto de longitud</nombre></modalidad>
+    </Modalidades> 
+</Alumnos>
