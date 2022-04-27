@@ -1,12 +1,12 @@
 # xml-xsl
 Página web con xml-xsl
 ```
-hola mundo
+
 ```
 
-> Ayer comí hijos
+> 
 >
->> Y antes de ayer manzanas
+>> 
 >> 
 Muestra los datos obtenidos de una base de datos utilizando xml y xsl.
 
